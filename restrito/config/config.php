@@ -14,9 +14,9 @@
 	define('DB_CHARSET','utf8');	*/
 
 /*clube */	
-	define('DB_HOSTNAME','localhost');
-	define('DB_USERNAME','clubebh_boleto');
-	define('DB_DATABASE','clubebh_appboleto');	
-	define('DB_PASSWORD','clube.app.bh.2017');
-	define('DB_CHARSET','utf8');
+	define('DB_HOSTNAME','SRVAPP');
+	define('DB_USERNAME','sa');
+	define('DB_DATABASE','my-houseSQL');	
+	define('DB_PASSWORD','masterkey');
+	define('DB_CHARSET','UTF-8');
 ?>

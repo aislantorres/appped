@@ -53,7 +53,7 @@
         <div class="row">
             <div class="col-xs-12 col-md-12"> 
                 <?php
-                $id = "1";
+                $id = "2";
                 if (array_key_exists('id', $_GET)) {
                     $id = $_GET["id"];
                 }
